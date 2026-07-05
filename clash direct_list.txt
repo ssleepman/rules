@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,liumingye.cn
 DOMAIN-SUFFIX,playgm.cc
 DOMAIN-SUFFIX,roonlabs.net
 DOMAIN-SUFFIX,api-flowercloud.com
+DOMAIN-SUFFIX,acgndog.com
