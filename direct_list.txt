@@ -14,3 +14,4 @@ DOMAIN-SUFFIX,roonlabs.net
 DOMAIN-SUFFIX,api-flowercloud.com
 DOMAIN-SUFFIX,acgndog.com
 DOMAIN-SUFFIX,sun-panel.top
+DOMAIN-SUFFIX,yoozb.live
